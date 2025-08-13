@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3nnfP+QdIf8=",
+  "success": true,
+  "projectFilePath": "/Users/iuliiagrediaeva/Day3_AboutMe/Day3_AboutMe/Day3_AboutMe.csproj",
+  "expectedPackageFiles": [
+    "/Users/iuliiagrediaeva/.nuget/packages/microsoft.netcore.app.runtime.win-x64/9.0.7/microsoft.netcore.app.runtime.win-x64.9.0.7.nupkg.sha512",
+    "/Users/iuliiagrediaeva/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/9.0.7/microsoft.aspnetcore.app.runtime.win-x64.9.0.7.nupkg.sha512",
+    "/Users/iuliiagrediaeva/.nuget/packages/microsoft.netcore.app.host.win-x64/9.0.7/microsoft.netcore.app.host.win-x64.9.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+/Users/iuliiagrediaeva/Day3_AboutMe/Day3_AboutMe/bin/Debug/net9.0/Day3_AboutMe
+/Users/iuliiagrediaeva/Day3_AboutMe/Day3_AboutMe/bin/Debug/net9.0/Day3_AboutMe.deps.json
+/Users/iuliiagrediaeva/Day3_AboutMe/Day3_AboutMe/bin/Debug/net9.0/Day3_AboutMe.runtimeconfig.json
+/Users/iuliiagrediaeva/Day3_AboutMe/Day3_AboutMe/bin/Debug/net9.0/Day3_AboutMe.dll
+/Users/iuliiagrediaeva/Day3_AboutMe/Day3_AboutMe/bin/Debug/net9.0/Day3_AboutMe.pdb
+/Users/iuliiagrediaeva/Day3_AboutMe/Day3_AboutMe/obj/Debug/net9.0/Day3_AboutMe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iuliiagrediaeva/Day3_AboutMe/Day3_AboutMe/obj/Debug/net9.0/Day3_AboutMe.AssemblyInfoInputs.cache
+/Users/iuliiagrediaeva/Day3_AboutMe/Day3_AboutMe/obj/Debug/net9.0/Day3_AboutMe.AssemblyInfo.cs
+/Users/iuliiagrediaeva/Day3_AboutMe/Day3_AboutMe/obj/Debug/net9.0/Day3_AboutMe.csproj.CoreCompileInputs.cache
+/Users/iuliiagrediaeva/Day3_AboutMe/Day3_AboutMe/obj/Debug/net9.0/Day3_AboutMe.dll
+/Users/iuliiagrediaeva/Day3_AboutMe/Day3_AboutMe/obj/Debug/net9.0/refint/Day3_AboutMe.dll
+/Users/iuliiagrediaeva/Day3_AboutMe/Day3_AboutMe/obj/Debug/net9.0/Day3_AboutMe.pdb
+/Users/iuliiagrediaeva/Day3_AboutMe/Day3_AboutMe/obj/Debug/net9.0/Day3_AboutMe.genruntimeconfig.cache
+/Users/iuliiagrediaeva/Day3_AboutMe/Day3_AboutMe/obj/Debug/net9.0/ref/Day3_AboutMe.dll
